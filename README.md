@@ -76,6 +76,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=codezzoom&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codezzoom&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codezzoom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codezzoom&" alt="codezzoom" /></p>
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
