@@ -72,7 +72,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# ⚡ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codezzoom&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codezzoom&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codezzoom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -83,3 +83,8 @@
   </a> 
 </p>
 
+<div align="left">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
