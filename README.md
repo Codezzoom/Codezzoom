@@ -118,14 +118,14 @@ I am a full-stack web and mobile developer with a strong passion for building im
 ### 🏆 Stats and Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codezzoom&show_icons=true&theme=aura" alt="Amritvir's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Codezzoom&theme=aura&border_radius=4.5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Codezzoom&show_icons=true&theme=aura" alt="Amritvir's GitHub stats" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=Codezzoom&theme=aura&border_radius=4.5" alt="GitHub Streak" width="425"/>
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/6tXM.gif" alt="Left GIF" width="280" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codezzoom&layout=compact&langs_count=10&theme=aura&border_radius=4.5" alt="Top Langs" height="200" />
-  <img src="https://i.gifer.com/6tXM.gif" alt="Right GIF" width="280" />
+  <img src="https://i.gifer.com/6tXM.gif" alt="Left GIF" width="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codezzoom&layout=compact&langs_count=10&theme=aura&border_radius=4.5" alt="Top Langs" height="130" />
+  <img src="https://i.gifer.com/6tXM.gif" alt="Right GIF" width="180" />
 </p>
 
 <p align="center">
