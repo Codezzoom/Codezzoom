@@ -104,6 +104,7 @@ I am a full-stack web and mobile developer with a strong passion for building im
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<!---
 [![Why I’m Learning Rust in 2024 (and new dev environment)](https://ytcards.demolab.com/?id=3q3OXiyUQk4&title=Why+I%E2%80%99m+Learning+Rust+in+2024+%28and+new+dev+environment%29&lang=en&timestamp=1732550404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1013 "Why I’m Learning Rust in 2024 (and new dev environment)")](https://www.youtube.com/watch?v=3q3OXiyUQk4)
 [![This is Why You Don't Roll Your Own Auth](https://ytcards.demolab.com/?id=VA2RS9WN9us&title=This+is+Why+You+Don%27t+Roll+Your+Own+Auth&lang=en&timestamp=1732287637&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=981 "This is Why You Don't Roll Your Own Auth")](https://www.youtube.com/watch?v=VA2RS9WN9us)
 [![3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)](https://ytcards.demolab.com/?id=zX4u3SudI-0&title=3+Coding+Projects+to+Break+the+Coding+Barrier+%28w%2F+Instructions+Included%29&lang=en&timestamp=1730728856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)")](https://www.youtube.com/watch?v=zX4u3SudI-0)
