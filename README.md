@@ -101,7 +101,7 @@ I am a full-stack web and mobile developer with a strong passion for building im
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📽️ Recent Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!---
@@ -118,8 +118,8 @@ I am a full-stack web and mobile developer with a strong passion for building im
 ### 🏆 Stats and Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codezzoom&show_icons=true&theme=aura" alt="Amritvir's GitHub stats" width="400"/>
-  <img src="https://streak-stats.demolab.com?user=Codezzoom&theme=aura&border_radius=4.5" alt="GitHub Streak" width="425"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Codezzoom&show_icons=true&theme=aura" alt="Amritvir's GitHub stats" width="445"/>
+  <img src="https://streak-stats.demolab.com?user=Codezzoom&theme=aura&border_radius=4.5" alt="GitHub Streak" width="470"/>
 </p>
 
 <p align="center">
@@ -130,6 +130,13 @@ I am a full-stack web and mobile developer with a strong passion for building im
 
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=Codezzoom&theme=discord&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+### 👉 Top Contributed Repo
+<p align="center">
+    <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Left Image" width="150" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=Codezzoom&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="500" />
+    <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Right Image" width="150" />
 </p>
 
 ---
